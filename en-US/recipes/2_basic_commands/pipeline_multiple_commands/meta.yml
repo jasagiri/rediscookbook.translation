@@ -1,0 +1,7 @@
+---
+title: Atomically Pipeline Multiple Commands
+credit:
+  - Ted Nyman
+tags: 
+  - atomic
+  - multi/exec

@@ -1,0 +1,8 @@
+---
+title: Make Data in Redis More Durable With The Append-Only File
+credit:
+  - Ted Nyman
+tags:
+  - aof
+  - config
+  - storage
